@@ -28,3 +28,33 @@ and open the template in the editor.
     font-weight: normal;
     font-style: normal;
 }
+*{
+    margin: 0;    
+}
+body{
+    margin:5px;
+}
+#container{
+   background-image: url("../imagenes/bg-page.jpg");
+}
+#contenido{    
+    background-image: url("../imagenes/html55.jpg");    
+    padding: 100px; 
+    color:white;
+}
+a{
+    color:white;     
+}
+.featured{
+    text-align: justify;       
+    width: 390px;    
+}
+h2{
+    padding-bottom:25px;    
+}
+.footer{
+    text-align: center;
+}
+ul{
+    color: black;
+}
